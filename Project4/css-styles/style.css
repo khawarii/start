@@ -1,0 +1,9 @@
+#title-one{
+font-size: 40px;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#link-one{text-align: end;}
+#img-one{display: block;margin: auto; height: 300px;}
+#bck-color-one{background-color: rgb(127, 137, 249);}
+.link-two{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: bold;font-size: 30px;}
+.text-one{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: 500;}
+#box-one{ width: 50%;}
