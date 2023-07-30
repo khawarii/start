@@ -1,3 +1,4 @@
 Abolfazl Khawari
-# start the css / HTML  from basic
-tanks a lot from your portection 
+# start the CSS / HTML  from basic 
+Tanks a lot from your Aid
+I start from zero and if You Aid me make me really happy
